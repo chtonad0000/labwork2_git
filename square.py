@@ -3,5 +3,5 @@ def area(a):
     return a * a
 
 
-def perimeter(a):
+def perim(a):
     return 4 * a
